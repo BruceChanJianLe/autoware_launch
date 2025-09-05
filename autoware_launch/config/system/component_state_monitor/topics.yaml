@@ -186,7 +186,7 @@
   args:
     node_name_suffix: transform_map_to_base_link
     topic: /tf
-    frame_id: map
+    frame_id: world
     child_frame_id: base_link
     best_effort: false
     transient_local: false
