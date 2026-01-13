@@ -27,7 +27,7 @@ launch:
       default: "true"
   - arg:
       name: launch_collision_detector
-      default: "true"
+      default: "false"
   - arg:
       name: launch_obstacle_collision_checker
       default: "false"
